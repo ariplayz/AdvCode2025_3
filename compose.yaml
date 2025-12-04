@@ -1,0 +1,7 @@
+﻿services:
+  advcode2025_3:
+    image: advcode2025_3
+    build:
+      context: .
+      dockerfile: Dockerfile
+
